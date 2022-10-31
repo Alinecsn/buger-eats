@@ -1,0 +1,53 @@
+{
+    "signup" : {
+                    "name": "Aline Silva",
+                    "cpf": "00000014141",
+                    "email":"aline@teste.com",
+                    "whatsapp": "3199999999",
+                    "address": {
+
+                        "postalcode": "31870560",
+                        "street": "Rua São Cirineu",
+                        "number": "400",
+                        "details":"casa",
+                        "district": "Ouro Minas",
+                        "city_state": "Belo Horizonte/MG"
+                    },
+                    "delivery_method": "Moto",
+                    "cnh": "cnh-digital.jpg"
+                },
+     "cpf_inv" : {
+                    "name": "Aline Silva",
+                    "cpf": "000000141AA",
+                    "email":"aline@teste.com",
+                    "whatsapp": "3199999999",
+                    "address": {
+
+                        "postalcode": "31870560",
+                        "street": "Rua São Cirineu",
+                        "number": "400",
+                        "details":"casa",
+                        "district": "Ouro Minas",
+                        "city_state": "Belo Horizonte/MG"
+                    },
+                    "delivery_method": "Moto",
+                    "cnh": "cnh-digital.jpg"
+                },
+    "email_inv" : {
+                    "name": "Aline Silva",
+                    "cpf": "00000014141",
+                    "email":"aline.com.br",
+                    "whatsapp": "3199999999",
+                    "address": {
+
+                        "postalcode": "31870560",
+                        "street": "Rua São Cirineu",
+                        "number": "400",
+                        "details":"casa",
+                        "district": "Ouro Minas",
+                        "city_state": "Belo Horizonte/MG"
+                    },
+                    "delivery_method": "Moto",
+                    "cnh": "cnh-digital.jpg"
+                }          
+}
